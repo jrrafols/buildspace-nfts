@@ -20,6 +20,7 @@ npx hardhat help
 * Hosted JSON & Image: https://testnets.opensea.io/0x41438Fe0f78bfd30A056760D9369Fa3bC1ba383d
 * Hosted JSON & Image: https://rinkeby.rarible.com/token/0x41438Fe0f78bfd30A056760D9369Fa3bC1ba383d:0?tab=details
 * Blockchain-based data: https://rinkeby.rarible.com/token/0x26c722A2fdEf47881CB05143b8A7D9052762Dd20:0
+* Dynaically-generated blockchain-based data: https://rinkeby.rarible.com/collection/0x43707a206E2c6dc3CE6aba9Cf2EefCa897A46B5d/items
 
 ## Resources
 * [Hardhat](https://hardhat.org/getting-started/)
