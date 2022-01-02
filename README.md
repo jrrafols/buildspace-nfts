@@ -17,8 +17,9 @@ npx hardhat help
 ## Links
 
 ### Testnet
-* https://testnets.opensea.io/0x41438Fe0f78bfd30A056760D9369Fa3bC1ba383d
-* https://rinkeby.rarible.com/token/0x41438Fe0f78bfd30A056760D9369Fa3bC1ba383d:0?tab=details
+* Hosted JSON & Image: https://testnets.opensea.io/0x41438Fe0f78bfd30A056760D9369Fa3bC1ba383d
+* Hosted JSON & Image: https://rinkeby.rarible.com/token/0x41438Fe0f78bfd30A056760D9369Fa3bC1ba383d:0?tab=details
+* Blockchain-based data: https://rinkeby.rarible.com/token/0x26c722A2fdEf47881CB05143b8A7D9052762Dd20:0
 
 ## Resources
 * [Hardhat](https://hardhat.org/getting-started/)
