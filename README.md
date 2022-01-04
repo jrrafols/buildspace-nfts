@@ -22,6 +22,7 @@ npx hardhat help
 * Blockchain-based data: https://rinkeby.rarible.com/token/0x26c722A2fdEf47881CB05143b8A7D9052762Dd20:0
 * Dynamically-generated blockchain-based data: https://rinkeby.rarible.com/collection/0x43707a206E2c6dc3CE6aba9Cf2EefCa897A46B5d/items
 * Above + event on minting: https://rinkeby.rarible.com/collection/0x63834330AE489C063B2A323a9C0417adAe9e9211/items
+* Add background color: https://rinkeby.rarible.com/collection/0xf6D722b680765F7768838c4fb24C5226A0B28C19/items
 
 ## Resources
 * [Hardhat](https://hardhat.org/getting-started/)
